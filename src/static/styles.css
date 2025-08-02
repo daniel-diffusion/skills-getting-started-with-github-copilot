@@ -142,3 +142,15 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* New styling for participant list */
+.participant-list {
+  list-style-type: disc;
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+.participant-list li {
+  margin-bottom: 5px;
+  font-style: italic;
+}
